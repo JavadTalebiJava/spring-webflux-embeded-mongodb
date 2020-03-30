@@ -3,7 +3,6 @@ package com.exchane.market;
 import com.exchane.market.model.Company;
 import com.exchane.market.repo.CompanyRepository;
 import org.springframework.boot.ApplicationRunner;
-import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;

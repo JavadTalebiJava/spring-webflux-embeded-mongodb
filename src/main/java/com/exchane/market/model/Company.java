@@ -15,7 +15,7 @@ public class Company {
     private String link;
 
     public Company(String name, String link) {
-        this.name= name;
-        this.link=link;
+        this.name = name;
+        this.link = link;
     }
 }
